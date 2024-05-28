@@ -1,2 +1,2 @@
-# trivia.github.io
+# trivia
 Biblical H🔥tseat
