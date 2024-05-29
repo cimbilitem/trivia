@@ -78,7 +78,7 @@ body {
             margin: 10px;
         }
         .reset-btn:hover {
-	        background-color:#aaaeb2;
+	        background-color:#e61045;
         }
         .reset-btn:active {
             position:relative;
@@ -97,7 +97,7 @@ body {
         }
 
         .show-answer-btn:hover {
-            background-color:#0056b3;
+            background-color:#056ad5;
         }
         .show-answer-btn:active {
             position:relative;
