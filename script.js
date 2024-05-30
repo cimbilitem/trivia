@@ -74,9 +74,9 @@ const questions = [
             },
             {
                 question: "The second coming of Jesus is like…",
-                options: ["A. A thief in the night", "B. A fig tree", "C. The days of Noah", "D: All of these"],
-                answer: "D. All of these",
-                reference: "D. All of these <br><br> Matthew 24:3-33 (KJV)"
+                options: ["A. A thief in the night", "B. A fig tree", "C. The days of Noah", "D. All of the above"],
+                answer: "D. All of the above",
+                reference: "D. All of the above <br><br> Matthew 24:3-33 (KJV)"
             },
             {
                 question: "What country was Barnabas from?",
